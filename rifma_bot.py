@@ -3,7 +3,7 @@ import random
 import re
 
 # создаем экземпляр бота
-bot = telebot.TeleBot('5935665589:AAHeCEcVhx0TuKnNs2zWd5H9b4sKtWp4v34')
+bot = telebot.TeleBot('your_bot_token')
 
 # функция для получения рифмы
 def get_rhyme(word):
